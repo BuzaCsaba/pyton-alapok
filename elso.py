@@ -2,8 +2,10 @@ from os import system
 
 system("clS")
 
-elsovaltozo = 12 
+# 2. feladat: prog_alapf_3
 
-print(elsovaltozo )
+# explicit tipuskonverzio
+szam = int(input("kérek egy számot:"))
+kiir = f"A szam:{szam} és kétszerese {2 * szam}"
 
-elsovaltozo = "A 10A a legjobb"
+print(kiir)
