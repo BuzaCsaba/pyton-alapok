@@ -1,0 +1,5 @@
+from os import system
+
+system("clS")
+meoriakezelés, minden info változokban eltárolva  
+ python- tipuss fugetlen - dimankus memoriakkezelés 
